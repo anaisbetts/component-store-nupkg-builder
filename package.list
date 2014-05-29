@@ -1,7 +1,5 @@
 XamarinActionBarSherlock
 xamandroidsupportv13-18
-xamandroidsupportv4-18
-xamandroidsupportv7appcompat
 xamandroidsupportv7gridlayout
 androidwearpreview
 coreplot
@@ -9,7 +7,6 @@ googleglass
 googlemapsios
 googleplayservicesfroyo
 googleplayservicesgingerbread
-googleplayservices
 googleplayservicesjellybean
 googleplusandplayios
 xamarin.auth
