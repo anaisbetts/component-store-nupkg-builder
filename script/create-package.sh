@@ -2,6 +2,7 @@
 
 rootdir=$(dirname $0)/..
 tmpdir=`mktemp -d -t nupkg`
+# echo $tmpdir
 packageid="$1"
 
 cp $rootdir/templates/README.txt "$tmpdir"
